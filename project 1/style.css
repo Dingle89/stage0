@@ -1,0 +1,36 @@
+/* This is a CSS comment. Notice that CSS comments are
+enclosed by different characters than HTML comments. */
+
+body {
+    background-image: url(images/csgoback.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    color: limegreen;
+    font-size: 24px;
+    font-family: Verdana;
+    text-align: center;
+}
+h2 {
+    font-size: 42px;
+}
+h3 {
+    font-size: 34px;
+}
+h4 {
+    font-size: 28px;
+}
+.box {
+    background-color: darkblue;
+}
+.words {
+    color: cyan;
+}
+#clist {
+    width: 200px;
+    margin: 0 auto;
+    text-align: left;
+}
+.wide {
+    width: 100%;
+}
